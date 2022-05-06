@@ -59,6 +59,4 @@ None
 
 
 ## Created by 
-
-Jason Francis
-```
+Jack Joseph
